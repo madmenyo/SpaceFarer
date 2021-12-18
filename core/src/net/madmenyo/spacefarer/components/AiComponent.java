@@ -1,30 +1,25 @@
 package net.madmenyo.spacefarer.components;
 
 import com.badlogic.ashley.core.Component;
+import com.badlogic.ashley.core.Entity;
+import com.badlogic.gdx.ai.fsm.State;
+import com.badlogic.gdx.ai.fsm.StateMachine;
 import com.badlogic.gdx.utils.Pool;
 
-import javax.swing.text.html.parser.Entity;
+import net.madmenyo.spacefarer.states.SimpleAiState;
+
+
 
 public class AiComponent implements Component, Pool.Poolable {
-    public Entity target;
+    public State<Entity> state = new SimpleAiState();
 
-    public enum State {
-        Idle,
-        Wander,
-        Gather,
-        Dock,
-        Follow,
-        Attack,
-        Flee
-    }
-
-    public State state;
+    public StateMachine<>
 
 
 
     @Override
     public void reset() {
-        target = null;
-        state = State.Idle;
+
+        state = null;
     }
 }

@@ -68,7 +68,9 @@ project(":android") {
         natives "com.badlogicgames.gdx:gdx-platform:$gdxVersion:natives-x86"
         natives "com.badlogicgames.gdx:gdx-platform:$gdxVersion:natives-x86_64"
 
-        api "com.badlogicgames.ashley:ashley:1.7.3"
+        api "com.badlogicgames.ashley:ashley:1.7.4"
+
+        api "com.badlogicgames.gdx:gdx-ai:1.8.2"
         
     }
 }
@@ -86,7 +88,8 @@ project(":html") {
         api "com.badlogicgames.gdx:gdx:$gdxVersion:sources"
         api "com.badlogicgames.gdx:gdx-backend-gwt:$gdxVersion:sources"
 
-        api "com.badlogicgames.ashley:ashley:1.7.3:sources"
+        api "com.badlogicgames.ashley:ashley:1.7.4:sources"
+        api "com.badlogicgames.gdx:gdx-ai:1.8.2:sources"
         
     }
 }
@@ -98,7 +101,8 @@ project(":core") {
     dependencies {
         api "com.badlogicgames.gdx:gdx:$gdxVersion"
 
-        api "com.badlogicgames.ashley:ashley:1.7.3"
+        api "com.badlogicgames.ashley:ashley:1.7.4"
+        api "com.badlogicgames.gdx:gdx-ai:1.8.2"
     }
 }
 

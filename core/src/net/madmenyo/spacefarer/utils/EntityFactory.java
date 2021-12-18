@@ -32,7 +32,7 @@ public class EntityFactory {
         Entity shipEntity = CreateShip(0, 0, 0, pilot, engine);
 
 
-        Entity slot = CreateSlot(40, -10, 0, shipEntity, engine);
+        Entity slot = CreateSlot(-10, 40, 0, shipEntity, engine);
         engine.addEntity(slot);
 
         ShipComponent shipComponent = Mapper.ShipMapper.get(shipEntity);
@@ -42,7 +42,7 @@ public class EntityFactory {
         SlotComponent slotComponent = Mapper.SlotMapper.get(slot);
         slotComponent.weapon = cannon;
 
-        slot = CreateSlot(-40, -10, 0, shipEntity, engine);
+        slot = CreateSlot(-10, -40, 0, shipEntity, engine);
         shipComponent.slots.add(slot);
 
         engine.addEntity(slot);

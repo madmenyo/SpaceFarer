@@ -53,7 +53,7 @@ public class WorldScreen extends BaseScreen {
         shapeRenderer = new ShapeRenderer();
         viewport = new ScreenViewport();
 
-        ((OrthographicCamera)viewport.getCamera()).zoom = .5f;
+        //((OrthographicCamera)viewport.getCamera()).zoom = .5f;
         viewport.getCamera().update();
 
         parallaxLayer = new ParallaxLayer(new Texture("backgrounds/nebula_purple_02.png"), 1f);
@@ -112,7 +112,9 @@ public class WorldScreen extends BaseScreen {
         shapeRenderer.end();
 
         TransformComponent transformComponent = Mapper.TransformMapper.get(ship);
-        System.out.println(transformComponent.position);
+        //System.out.println(transformComponent.position);
+
+
     }
 
     @Override

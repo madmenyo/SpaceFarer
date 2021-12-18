@@ -30,8 +30,9 @@ public class ShipControlSystem extends IteratingSystem {
         if (ship.pilot == null) return;
 
 
-        currentDirection.set(0, -1);
-        currentDirection.rotateDeg(-transform.rotation);
+        currentDirection.set(0, 1);
+        System.out.println(transform.rotation);
+        currentDirection.setAngleDeg(transform.rotation);
 
         if (control.stop){
             tmp.set(velocity.speed).nor().scl(ship.acceleration);

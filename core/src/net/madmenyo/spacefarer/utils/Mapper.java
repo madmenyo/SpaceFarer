@@ -2,6 +2,7 @@ package net.madmenyo.spacefarer.utils;
 
 import com.badlogic.ashley.core.ComponentMapper;
 
+import net.madmenyo.spacefarer.components.AiComponent;
 import net.madmenyo.spacefarer.components.BoundingCircleComponent;
 import net.madmenyo.spacefarer.components.ControlComponent;
 import net.madmenyo.spacefarer.components.DebugComponent;
@@ -40,5 +41,7 @@ public class Mapper {
             ComponentMapper.getFor(WeaponComponent.class);
     public static ComponentMapper<DebugComponent> DebugMapper =
             ComponentMapper.getFor(DebugComponent.class);
+    public static ComponentMapper<AiComponent> AiMapper =
+            ComponentMapper.getFor(AiComponent.class);
 
 }

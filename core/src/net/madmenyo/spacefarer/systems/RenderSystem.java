@@ -113,7 +113,7 @@ public class RenderSystem extends IteratingSystem {
                     originX, originY,
                     width, height,
                     transform.scale.x, transform.scale.y,
-                    rotation);
+                    rotation - 90);
 
             /*
             batch.draw(texture.region,

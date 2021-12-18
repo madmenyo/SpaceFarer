@@ -17,7 +17,7 @@ public class KeyboardInputSystem extends EntitySystem implements InputProcessor 
     @Override
     public void addedToEngine(Engine engine) {
         // TODO: probably needs a player component, now it takes looks for all ships
-        player = engine.getEntitiesFor(Family.all(ControlComponent.class).get()).first();
+        player = engine.getEntitiesFor(Family.all(ControlComponent.class, ControlComponent.class).get()).first();
     }
 
     private boolean handleKeyInput(int keyCode, boolean down){
