@@ -1,0 +1,1137 @@
+
+sprites.png
+size: 4096, 4096
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+512x512 Alpine - Clouds 1
+  rotate: false
+  xy: 1030, 3086
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+512x512 Alpine - Clouds 2
+  rotate: false
+  xy: 2, 1544
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+512x512 Alpine - Clouds 3
+  rotate: false
+  xy: 516, 2058
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+512x512 Alpine - Clouds 4
+  rotate: false
+  xy: 1030, 2572
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+512x512 Alpine - Clouds 5
+  rotate: false
+  xy: 1544, 3086
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+512x512 Alpine 1
+  rotate: false
+  xy: 2, 3086
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+512x512 Alpine 2
+  rotate: false
+  xy: 2, 2572
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+512x512 Alpine 3
+  rotate: false
+  xy: 516, 3086
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+512x512 Alpine 4
+  rotate: false
+  xy: 2, 2058
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+512x512 Alpine 5
+  rotate: false
+  xy: 516, 2572
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+512x512 Cracked 1
+  rotate: false
+  xy: 2, 1030
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+512x512 Cracked 2
+  rotate: false
+  xy: 516, 1544
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+512x512 Cracked 3
+  rotate: false
+  xy: 1030, 2058
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+512x512 Cracked 4
+  rotate: false
+  xy: 1544, 2572
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+512x512 Cracked 5
+  rotate: false
+  xy: 2058, 3086
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+512x512 Desert 1
+  rotate: false
+  xy: 2, 516
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+512x512 Desert 2
+  rotate: false
+  xy: 516, 1030
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+512x512 Desert 3
+  rotate: false
+  xy: 1030, 1544
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+512x512 Desert 4
+  rotate: false
+  xy: 1544, 2058
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+512x512 Desert 5
+  rotate: false
+  xy: 2058, 2572
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+512x512 Ice 1
+  rotate: false
+  xy: 2572, 3086
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+512x512 Ice 2
+  rotate: false
+  xy: 2, 2
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+512x512 Ice 3
+  rotate: false
+  xy: 516, 516
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+512x512 Ice 4
+  rotate: false
+  xy: 1030, 1030
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+512x512 Ice 5
+  rotate: false
+  xy: 1544, 1544
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+512x512 Moon 1
+  rotate: false
+  xy: 2058, 2058
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+512x512 Moon 2
+  rotate: false
+  xy: 2572, 2572
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+512x512 Moon 3
+  rotate: false
+  xy: 3086, 3086
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+512x512 Moon 4
+  rotate: false
+  xy: 516, 2
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+512x512 Moon 5
+  rotate: false
+  xy: 1030, 516
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+512x512 Ocean - Clouds 1
+  rotate: false
+  xy: 1544, 516
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+512x512 Ocean - Clouds 2
+  rotate: false
+  xy: 2058, 1030
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+512x512 Ocean - Clouds 3
+  rotate: false
+  xy: 2572, 1544
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+512x512 Ocean - Clouds 4
+  rotate: false
+  xy: 3086, 2058
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+512x512 Ocean - Clouds 5
+  rotate: false
+  xy: 1544, 2
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+512x512 Ocean 1
+  rotate: false
+  xy: 1544, 1030
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+512x512 Ocean 2
+  rotate: false
+  xy: 2058, 1544
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+512x512 Ocean 3
+  rotate: false
+  xy: 2572, 2058
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+512x512 Ocean 4
+  rotate: false
+  xy: 3086, 2572
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+512x512 Ocean 5
+  rotate: false
+  xy: 1030, 2
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+512x512 Poison 1
+  rotate: false
+  xy: 2058, 516
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+512x512 Poison 2
+  rotate: false
+  xy: 2572, 1030
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+512x512 Poison 3
+  rotate: false
+  xy: 3086, 1544
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+512x512 Poison 4
+  rotate: false
+  xy: 2058, 2
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+512x512 Poison 5
+  rotate: false
+  xy: 2572, 516
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+512x512 Radiated 1
+  rotate: false
+  xy: 3086, 1030
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+512x512 Radiated 2
+  rotate: false
+  xy: 2572, 2
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+512x512 Radiated 3
+  rotate: false
+  xy: 3086, 516
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+512x512 Radiated 4
+  rotate: false
+  xy: 3086, 2
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+
+sprites2.png
+size: 4096, 4096
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+512x512 Radiated 5
+  rotate: false
+  xy: 2, 3086
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+512x512 Red Planet 1
+  rotate: false
+  xy: 2, 2572
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+512x512 Red Planet 2
+  rotate: false
+  xy: 516, 3086
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+512x512 Red Planet 3
+  rotate: false
+  xy: 2, 2058
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+512x512 Red Planet 4
+  rotate: false
+  xy: 516, 2572
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+512x512 Red Planet 5
+  rotate: false
+  xy: 1030, 3086
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+512x512 Rocky 1
+  rotate: false
+  xy: 2, 1544
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+512x512 Rocky 2
+  rotate: false
+  xy: 516, 2058
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+512x512 Rocky 3
+  rotate: false
+  xy: 1030, 2572
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+512x512 Rocky 4
+  rotate: false
+  xy: 1544, 3086
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+512x512 Rocky 5
+  rotate: false
+  xy: 2, 1030
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+512x512 Tropical - Clouds 1
+  rotate: false
+  xy: 516, 1030
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+512x512 Tropical - Clouds 2
+  rotate: false
+  xy: 1030, 1544
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+512x512 Tropical - Clouds 3
+  rotate: false
+  xy: 1544, 2058
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+512x512 Tropical - Clouds 4
+  rotate: false
+  xy: 2058, 2572
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+512x512 Tropical - Clouds 5
+  rotate: false
+  xy: 2572, 3086
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+512x512 Tropical 1
+  rotate: false
+  xy: 516, 1544
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+512x512 Tropical 2
+  rotate: false
+  xy: 1030, 2058
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+512x512 Tropical 3
+  rotate: false
+  xy: 1544, 2572
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+512x512 Tropical 4
+  rotate: false
+  xy: 2058, 3086
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+512x512 Tropical 5
+  rotate: false
+  xy: 2, 516
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+512x512 Volcanic 1
+  rotate: false
+  xy: 2, 2
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+512x512 Volcanic 2
+  rotate: false
+  xy: 516, 516
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+512x512 Volcanic 3
+  rotate: false
+  xy: 1030, 1030
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+512x512 Volcanic 4
+  rotate: false
+  xy: 1544, 1544
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+512x512 Volcanic 5
+  rotate: false
+  xy: 2058, 2058
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+Alpine-Clouds-1-512x512
+  rotate: false
+  xy: 2058, 1544
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+Alpine-Clouds-2-512x512
+  rotate: false
+  xy: 2572, 2058
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+Alpine-Clouds-3-512x512
+  rotate: false
+  xy: 3086, 2572
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+Alpine-Clouds-4-512x512
+  rotate: false
+  xy: 1030, 2
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+Alpine-1-512x512
+  rotate: false
+  xy: 2572, 2572
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+Alpine-2-512x512
+  rotate: false
+  xy: 3086, 3086
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+Alpine-3-512x512
+  rotate: false
+  xy: 516, 2
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+Alpine-4-512x512
+  rotate: false
+  xy: 1030, 516
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+Alpine-5-512x512
+  rotate: false
+  xy: 1544, 1030
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+Cracked-1-512x512
+  rotate: false
+  xy: 1544, 516
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+Cracked-2-512x512
+  rotate: false
+  xy: 2058, 1030
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+Cracked-3-512x512
+  rotate: false
+  xy: 2572, 1544
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+Cracked-4-512x512
+  rotate: false
+  xy: 3086, 2058
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+Desert-1-512x512
+  rotate: false
+  xy: 1544, 2
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+Desert-2-512x512
+  rotate: false
+  xy: 2058, 516
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+Desert-3-512x512
+  rotate: false
+  xy: 2572, 1030
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+Desert-4-512x512
+  rotate: false
+  xy: 3086, 1544
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+Gas Giant-1-512x512
+  rotate: false
+  xy: 2058, 2
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+Gas Giant-10-512x512
+  rotate: false
+  xy: 2572, 516
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+Gas Giant-2-512x512
+  rotate: false
+  xy: 3086, 1030
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+Gas Giant-3-512x512
+  rotate: false
+  xy: 2572, 2
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+Gas Giant-4-512x512
+  rotate: false
+  xy: 3086, 516
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+Gas Giant-5-512x512
+  rotate: false
+  xy: 3086, 2
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+
+sprites3.png
+size: 4096, 4096
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+Gas Giant-6-512x512
+  rotate: false
+  xy: 2, 3086
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+Gas Giant-7-512x512
+  rotate: false
+  xy: 2, 2572
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+Gas Giant-8-512x512
+  rotate: false
+  xy: 516, 3086
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+Gas Giant-9-512x512
+  rotate: false
+  xy: 2, 2058
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+Ice-1-512x512
+  rotate: false
+  xy: 516, 2572
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+Ice-2-512x512
+  rotate: false
+  xy: 1030, 3086
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+Ice-3-512x512
+  rotate: false
+  xy: 2, 1544
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+Ice-4-512x512
+  rotate: false
+  xy: 516, 2058
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+Moon-1-512x512
+  rotate: false
+  xy: 1030, 2572
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+Moon-2-512x512
+  rotate: false
+  xy: 1544, 3086
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+Moon-3-512x512
+  rotate: false
+  xy: 2, 1030
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+Moon-4-512x512
+  rotate: false
+  xy: 516, 1544
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+Ocean-Clouds-1-512x512
+  rotate: false
+  xy: 1030, 2058
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+Ocean-Clouds-2-512x512
+  rotate: false
+  xy: 1544, 2572
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+Ocean-Clouds-3-512x512
+  rotate: false
+  xy: 2058, 3086
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+Ocean-Clouds-4-512x512
+  rotate: false
+  xy: 2, 516
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+Oceanic-1-512x512
+  rotate: false
+  xy: 516, 1030
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+Oceanic-2-512x512
+  rotate: false
+  xy: 1030, 1544
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+Oceanic-3-512x512
+  rotate: false
+  xy: 1544, 2058
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+Oceanic-4-512x512
+  rotate: false
+  xy: 2058, 2572
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+Poison-1-512x512
+  rotate: false
+  xy: 2572, 3086
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+Poison-2-512x512
+  rotate: false
+  xy: 2, 2
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+Poison-3-512x512
+  rotate: false
+  xy: 516, 516
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+Poison-4-512x512
+  rotate: false
+  xy: 1030, 1030
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+Radiated-1-512x512
+  rotate: false
+  xy: 1544, 1544
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+Radiated-2-512x512
+  rotate: false
+  xy: 2058, 2058
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+Radiated-3-512x512
+  rotate: false
+  xy: 2572, 2572
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+Radiated-4-512x512
+  rotate: false
+  xy: 3086, 3086
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+RedPlanet-1-512x512
+  rotate: false
+  xy: 516, 2
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+RedPlanet-2-512x512
+  rotate: false
+  xy: 1030, 516
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+RedPlanet-3-512x512
+  rotate: false
+  xy: 1544, 1030
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+RedPlanet-4-512x512
+  rotate: false
+  xy: 2058, 1544
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+Rocky-1-512x512
+  rotate: false
+  xy: 2572, 2058
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+Rocky-2-512x512
+  rotate: false
+  xy: 3086, 2572
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+Rocky-3-512x512
+  rotate: false
+  xy: 1030, 2
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+Rocky-4-512x512
+  rotate: false
+  xy: 1544, 516
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+Stormy-1-512x512
+  rotate: false
+  xy: 2058, 1030
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+Stormy-2-512x512
+  rotate: false
+  xy: 2572, 1544
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+Stormy-3-512x512
+  rotate: false
+  xy: 3086, 2058
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+Stormy-4-512x512
+  rotate: false
+  xy: 1544, 2
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+Tropical-1-512x512
+  rotate: false
+  xy: 2058, 516
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+Tropical-2-512x512
+  rotate: false
+  xy: 2572, 1030
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+Tropical-3-512x512
+  rotate: false
+  xy: 3086, 1544
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+Tropical-4-512x512
+  rotate: false
+  xy: 2058, 2
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+Tropical-Clouds-1-512x512
+  rotate: false
+  xy: 2572, 516
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+Tropical-Clouds-2-512x512
+  rotate: false
+  xy: 3086, 1030
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+Tropical-Clouds-3-512x512
+  rotate: false
+  xy: 2572, 2
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+Tropical-Clouds-4-512x512
+  rotate: false
+  xy: 3086, 516
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+Volcanic-1-512x512
+  rotate: false
+  xy: 3086, 2
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+
+sprites4.png
+size: 4096, 1024
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+Kai
+  rotate: false
+  xy: 2402, 840
+  size: 124, 135
+  orig: 124, 135
+  offset: 0, 0
+  index: -1
+ship01
+  rotate: false
+  xy: 186, 49
+  size: 130, 185
+  orig: 130, 185
+  offset: 0, 0
+  index: -1
+ship02
+  rotate: false
+  xy: 402, 359
+  size: 170, 102
+  orig: 170, 102
+  offset: 0, 0
+  index: -1
+ship03
+  rotate: false
+  xy: 2, 2
+  size: 182, 232
+  orig: 182, 232
+  offset: 0, 0
+  index: -1
+ship04
+  rotate: false
+  xy: 2058, 515
+  size: 230, 336
+  orig: 230, 336
+  offset: 0, 0
+  index: -1
+ship05
+  rotate: false
+  xy: 402, 247
+  size: 116, 110
+  orig: 116, 110
+  offset: 0, 0
+  index: -1
+ship06
+  rotate: false
+  xy: 2, 236
+  size: 398, 225
+  orig: 398, 225
+  offset: 0, 0
+  index: -1
+ship07
+  rotate: false
+  xy: 2058, 853
+  size: 342, 122
+  orig: 342, 122
+  offset: 0, 0
+  index: -1
+Volcanic-2-512x512
+  rotate: false
+  xy: 2, 463
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+Volcanic-3-512x512
+  rotate: false
+  xy: 516, 463
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+Volcanic-4-512x512
+  rotate: false
+  xy: 1030, 463
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+Volcanic-5-512x512
+  rotate: false
+  xy: 1544, 463
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
